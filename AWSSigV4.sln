@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSSigV4", "AWSSigV4\AWSSigV4.csproj", "{1271777E-B4BA-43BE-817F-00BCD4656504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSSigV4.xUnitTest", "AWSSigV4.xUnitTest\AWSSigV4.xUnitTest.csproj", "{BBBE33A7-6415-427A-8D3B-8A4338488B97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1271777E-B4BA-43BE-817F-00BCD4656504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1271777E-B4BA-43BE-817F-00BCD4656504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1271777E-B4BA-43BE-817F-00BCD4656504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBE33A7-6415-427A-8D3B-8A4338488B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBE33A7-6415-427A-8D3B-8A4338488B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBE33A7-6415-427A-8D3B-8A4338488B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBE33A7-6415-427A-8D3B-8A4338488B97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
